@@ -21,3 +21,6 @@ of the game would have been written in
 the lab at MIT. Yeah, I was writing video games on laboratory
 computers between experiments. I could get away with this because
 I usually had the lab to myself.
+
+By the way, I have no idea how to view the pictures. I assume
+I drew them myself.
