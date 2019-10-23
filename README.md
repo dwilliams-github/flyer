@@ -10,8 +10,8 @@ This game was written in 1990 to run on a classic Mac.
 The kind with a small black+white screen. Animation on these 
 machines was not simple. This code used small sprites and wrote
 directly into video memory in order to achieve enough speed
-for smooth animation. The sprites were tiny (8 by 8 bits I 
-imagine) and hand drawn. I wrote a routine in assembly to
+for smooth animation. The sprites were tiny (16 by 16 bits) 
+and hand drawn. I wrote a routine in assembly to
 copy the sprites directly to video memory.
 
 I remember wanting to write this game because I lost the code
