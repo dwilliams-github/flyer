@@ -17,7 +17,7 @@ copy the sprites directly to video memory.
 I remember wanting to write this game because I lost the code
 to something similar I wrote for a PC XT machine. That version
 of the game would have been written in 
-[https://en.wikipedia.org/wiki/Turbo_Pascal](Turbo Pascal) at 
+[Turbo Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal) at 
 the lab at MIT. Yeah, I was writing video games on laboratory
 computers between experiments. I could get away with this because
 I usually had the lab to myself.
