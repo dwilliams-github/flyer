@@ -10,8 +10,8 @@ This game was written in 1990 to run on a classic Mac.
 The kind with a small black+white screen. Animation on these 
 machines was not simple. This code used small sprites and wrote
 directly into video memory in order to achieve enough speed
-for smooth animation. The sprites were tiny (16 by 16 bits) 
-and hand drawn. I wrote a routine in assembly to
+for smooth animation. The sprites were tiny (16 by 16 bits), 
+hand drawn, and animated. I wrote a routine in assembly to
 copy the sprites directly to video memory.
 
 I remember wanting to write this game because I lost the code
@@ -22,5 +22,6 @@ the lab at MIT. Yeah, I was writing video games on laboratory
 computers between experiments. I could get away with this because
 I usually had the lab to myself.
 
-By the way, I have no idea how to view the pictures. I assume
-I drew them myself.
+I used the excellent little tool
+[recycle](https://evolutioninteractive.com/rezycle/rezycle.html)
+to extract the contents and recover all the little icons.
